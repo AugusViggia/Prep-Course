@@ -1,0 +1,11 @@
+variables: es la manera de crear un valor que pueda o no cambiar a lo largo de un codigo.
+
+strings: son cadenas o cadena de caracteres.
+
+funciones: son una herramienta para reproducir una secuencia, ya sea una suma, resta, entre otras cosas las veces que queramos, en diferentes partes de un codigo.
+argumentos: son valores que se les predetermina a una funcion para que sean o no modificados mas adelante en un codigo.
+return: el return justamente sirve para retornar, es decir mostrar en pantalla un resultado. ya sea de una funcion u otro elemento a mostrar.
+
+declaraciones if: son una herramienta que tienen las funciones para retornar true o false, que son valores booleanos a partir de una condicion "si esto, entonces true".
+
+booleanos: son valores true y false.
