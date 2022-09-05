@@ -9,3 +9,5 @@ return: el return justamente sirve para retornar, es decir mostrar en pantalla u
 declaraciones if: son una herramienta que tienen las funciones para retornar true o false, que son valores booleanos a partir de una condicion "si esto, entonces true".
 
 booleanos: son valores true y false.
+
+
