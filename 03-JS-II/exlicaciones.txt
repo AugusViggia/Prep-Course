@@ -1,0 +1,4 @@
+for: es un tipo de bucle que permite repetir una secuencia hasta que se cumpla su condicion de frenado.
+&& es como decir a y b 
+|| es como decir a o b
+! es el simbolo de negacion
