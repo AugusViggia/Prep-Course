@@ -222,6 +222,7 @@ function retornarPerimetro(lado){
   //Escribe tu código aquí
   var perimetro = lado * 4;
   return perimetro;
+  
 }
 
 
