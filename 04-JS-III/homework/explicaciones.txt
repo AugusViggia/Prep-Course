@@ -1,0 +1,1 @@
+Array: un arreglo es una caja que puede almacenar cualquier tipo de valor.
