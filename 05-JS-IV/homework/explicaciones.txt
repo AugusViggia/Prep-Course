@@ -1,0 +1,5 @@
+objetos:
+propiedades:
+metodos:
+bucles for in...:
+notacion de puntos vs corchetes:
