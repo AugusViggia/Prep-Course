@@ -1,5 +1,5 @@
-objetos:
-propiedades:
-metodos:
-bucles for in...:
-notacion de puntos vs corchetes:
+objetos: son elementos que se pueden usar en Java.script que tienen propiedades y valores asignados a una variable.
+propiedades: son los valores que definen a un objeto.
+metodos: son funciones que se pueden asignar dentro de un objeto, para que la misma reproduzca una accion dentro del codigo.
+bucles for in...: es parecido al bucle for normal, pero este se utiliza cuando tenes una cantidad de objetos que no podes recorrer uno por uno. con el bucle podes recorrer una propiedad de todos los objetos que tengas y devolver un valor o todos los valores que necesites.
+notacion de puntos vs corchetes: la notacion de puntos sirve para llamar una propiedad especifica de un objeto. mientras que la notacion de corchetes sirve para llamar de manera menos exacta a la propiedad de un objeto.
