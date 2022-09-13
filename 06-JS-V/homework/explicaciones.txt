@@ -1,0 +1,3 @@
+prototype: todos los objetos lo tienen, seria como la plantilla del objeto, o el origen de donde salio con sus propiedades y valores originales.
+
+constructors: es lo que se usa como plantilla para de ella crear otros objetos con propiedades predefinidas.
